@@ -1,0 +1,160 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;     
+}
+h1 {
+    font-family: 400;
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+.main_part{
+    margin-bottom: 50px;
+    display: flex;
+}
+.part_1{
+    /* margin-bottom: 20px; */
+    padding-left: 10%;
+    width: 50%;
+}
+#relationship{
+    padding: 10px;
+}
+.part_1 img{
+    width: 50%;
+}
+.link_button{
+    text-decoration: none;
+    background-color:#e55039 ;
+    padding: 15px 40px;
+    border-radius: 10px;
+    color: #d1d8e0;
+}
+.margin1{
+    margin-right: 20px;
+    border: 1px solid red;
+    height: 100px;
+    margin-top: 40px;
+}
+.margin{
+    display: flex;
+}
+.mission_main{
+    display: flex;
+}
+
+.mission_part img{
+    width: 50%;
+}
+.pragraph{
+    padding-bottom: 20px;
+}
+.mission_part{
+    
+    padding: 130px;
+}
+.mission_head{
+    color: #57606f;
+    text-align: center;
+}
+.mission_head span{
+    color: #fa8231;
+}
+.mission_part1{
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 10%;
+    margin-right: 2%;
+    width: 20%;
+    background-color: #dfe6e9ed;
+    box-shadow: 10px 20px 10px #006266;
+}
+.mission_part2{
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 20%;;
+    background-color: #82ccdd;
+    box-shadow: 10px 20px 10px #1B1464;
+}
+.mission_part3{
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 2%;
+    margin-right: 8px;
+    width: 20%;
+    background-color: #D6A2E8ed;
+    box-shadow: 10px 20px 10px #e77f67;
+}
+.mission_part1 img{
+    width: 60%;
+}
+.mission_part2 img{
+    width: 60%;
+}
+.mission_part3 img{
+    width: 60%;
+}
+.main_develop_area{
+    margin-top: 150px;
+    display: flex;
+    margin-bottom: 100px;
+}
+.develop_area1{
+    margin-left: 10%;
+    width: 40%;
+}
+.develop_area1 img{
+
+    width: 70%;
+}
+.develop_area2{
+    margin-right: 10%;
+    width: 50%;
+}
+.community{
+    margin-bottom: 100px;
+    display: flex;
+}
+.community_part{
+    margin-left: 10%;
+    width: 40%;
+}
+.community_part img{
+    width: 70%;
+}
+.personal_blog{
+    display: flex;
+}
+.personal{
+    margin-bottom: 100px;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 40%;
+}
+.personal img{
+    width: 80%;
+}
+footer{
+    height: 200px;
+    text-align: center;
+    background-color: #2f3542;
+}
+.fotter_area h2{
+    padding: 30px;
+    color: #dfe4ea;
+}
+p{
+    color: #747d8c;
+    font-size: 20px0;
+    font-family: 400;
+}
+.fotter_area span{
+    color: #e55039;
+}
+.fotter_area h3{
+    color: #7f8fa6;
+}
