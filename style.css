@@ -1,6 +1,9 @@
 body{
     font-family: 'Nunito', sans-serif;
     font-family: 'Poppins', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
     margin: 0;     
 }
 h1 {
@@ -30,7 +33,7 @@ h1 {
     background-color:#e55039 ;
     padding: 15px 40px;
     border-radius: 10px;
-    color: #d1d8e0;
+    color: #f5f6fa;
 }
 .margin1{
     margin-right: 20px;
@@ -136,7 +139,7 @@ h1 {
     width: 40%;
 }
 .personal img{
-    width: 80%;
+    width: 100%;
 }
 footer{
     height: 200px;
@@ -157,4 +160,22 @@ p{
 }
 .fotter_area h3{
     color: #7f8fa6;
+}
+.develop_area2 span{
+    color: #f8c291;
+}
+.parsonal_blog_1{
+    display: flex;
+}
+.parsonal_blog{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 40%;
+}
+.parsonal_blog img{
+    width: 80%;
+}
+.parsonal_blog h1{
+    color: #60a3bc;
 }
